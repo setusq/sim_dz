@@ -3,7 +3,7 @@
   
 ![image](https://github.com/setusq/sim_dz/assets/125801694/cdcaacce-95d8-48b4-a9cd-79ccc31d01ab)
 
--график второй задачи:
+- график второй задачи:
 
 ![image](https://github.com/setusq/sim_dz/assets/125801694/b9b727bf-3868-4bd6-8550-7d78cda34548)
 
